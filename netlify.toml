@@ -5,5 +5,5 @@ GO_VERSION = "1.19.2"
 
 [[redirects]]
     from = "https://regula-payments-nz.netlify.com/*"
-    to = "https://regula-payments-nz.nz/:splat"
+    to = "https://regula.nz/:splat"
     status = 301
