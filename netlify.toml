@@ -2,3 +2,8 @@
 [build.environment]
 HUGO_VERSION = "0.104.3"
 GO_VERSION = "1.19.2"
+
+[[redirects]]
+    from = "https://regula-payments-nz.netlify.com/*"
+    to = "https://regula-payments-nz.nz/:splat"
+    status = 301
